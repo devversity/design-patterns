@@ -1,0 +1,9 @@
+{
+    "name": "stuart/design-patterns",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
