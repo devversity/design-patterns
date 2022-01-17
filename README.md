@@ -5,5 +5,6 @@ Author's Website: [http://www.stuart-todd.co.uk](http://www.stuart-todd.co.uk/)
 
 - Observer Pattern
 - Driver Pattern
+- Memento Pattern
 
 More to follow...
