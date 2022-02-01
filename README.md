@@ -8,5 +8,6 @@ Author's Website: [http://www.stuart-todd.co.uk](http://www.stuart-todd.co.uk/)
 - Observer Pattern
 - Driver Pattern
 - Memento Pattern
+- Chain Of Responsibility Pattern
 
 More to follow...
